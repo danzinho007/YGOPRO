@@ -1,0 +1,35 @@
+Number 17: Leviathan Dragon
+
+2 Level 3 monstros
+Uma vez por turno, você pode separar 1 Xyz 
+Material desta carta; para que esta carta ganhe 
+500 ATK. Enquanto esta carta não tiver Xyz 
+Material, ela não pode atacar o seu oponente 
+diretamente.
+
+Number C39: Utopia Ray
+3 monstros level 4 do atributo Luz
+
+Você pode fazer o Xyz Summon dessa carta (do 
+seu Extra Deck) por anexar 1 "Number 39: Utopia"
+ virado para cima que você controla, e todos os 
+Xyz Material (se pussuir algum) para esta carta 
+como Xyz Material. 
+Se você tem 1000 Life Points ou menos: Você pode
+ separar 1 Xyz Material desta carta, para 
+selecionar como alvo 1 monstro que seu oponente 
+controla; até o fim do turno, esta carta ganha 
+500 pontos de ATK e o monstro alvo perde 1000 
+pontos de ATK.
+
+Swordsman of Revealing Light
+
+Quando um monstro do oponente declarar um ataque
+ direto: você pode Invocar este card por 
+Invocação-Especial da sua mão e, depois, se a 
+DEF deste card for maior que o ATK do monstro 
+atacante, destrua esse monstro atacante. 
+Um Monstro Xyz que foi Invocado usando este card
+ no campo como Matéria Xyz ganha este efeito.
+? A cada turno, na primeira vez que este card 
+seria destruído em batalha, ele não é destruído.

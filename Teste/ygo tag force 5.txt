@@ -1,0 +1,65 @@
+Bright ( Yusei , Akiza e Carly )
+
+individual : 0x1
+
+===========================
+
+Disa ( ... , Crow e Yusei )
+
+individual : 1x0 
+=================================
+
+Enzo ( Crow , ... e Jack )
+
+individual : 1x0
+
+==============================
+
+Georg ( Carly , Jack e Crow
+
+individual : 1x0
+
+=====================
+
+Kami ( Yusei , ... e Crow
+
+individual : 1x0
+
+=========================
+Maggie ( Yusei , Carly e Rua/Lua )
+
+individual 0x1
+======================
+Odelia ( Yusei , Crow e ... )
+
+individual : 1x0
+
+=================
+Taku ( Crow , ... e Jack )
+
+individual : 0x1
+
+========================
+Tasha ( Yusei , Akiza e Crow )
+
+individual : 1x0
+
+==========================
+Jogo de cartas :
+triângulo = S
+bola = X
+X = Z
+
+Jogo de números :
+
+O = X
+X = Z
+quadrado = Z 
+*não apertar Z , pq vai direto
+
+= 
+Filme = Tarot Card
+Luta = Dark Magicial Girl Figure
+
+Luta+Filme+Casa =
+

@@ -1,0 +1,1375 @@
+WC2019
+
+V(2)-V(3)-D-D-V(4)-D-D
+488 = LoL
+829 = ...
+487 = ...
+938 = ...
+290 = ...
+787 = TFS
+015 = ...
+466 = ...
+654 = ...
+697 = ...
+406 = ...
+810 = ...
+758 = ...
+404 = ...
+764 = ...
+654 = ...
+
+12-
+14-
+16-
+18-
+20-
+22-
+24
+26-
+
+Matemática pra se dar bem nessa repetição :
+
+Tenho atualmente :4 dados e 13 olhos 
+
+52 = 1 batalha de dados e 1 olho > 3 e 12 
+porém ganho 2 dados , logo 5 e 12
+
+53 = 2 batalhas de dados e 1 olho > 3 e 11
+porém ganho 1 dado e 1 olho , logo 4 e 12
+54 = 1 olho
+porém ganho 2 dados , logo 6 e 11
+55 =  1 olho > 6 e 10
+porém ganho 1 dado e 1 olho , logo 7 e 11
+56 = 1 dado e 1 olho > 6 e 10 
+porém ganho 2 dados , logo 8 e 10
+57 = 1 dado e 1 olho > 7 e 9 
+porém ganho 1 olho e 1 dado , logo 8 e 10
+58 = 2 dados e 1 olho > 6 e 9
+porém ganho 2 dados , logo 8 e 9 
+51 = 3 dados e 1 olho > 5 e 8
+porém ganho 1 dado e 1 olho , logo 6 e 9
+
+Então no 51 :
+Posso pegar 1 dado e, 5 jóias e batalhar nos dados  
+
+Bom galera , hoje irei explicar o que houve .
+
+Um usuário postou no grupo de Duel Links BR no facebook sobre como salvar sua ID antes de apagar o jogo , vendo isso eu fui aprender sozinho e acabei entrando em uma outra conta ( a minha antiga que eu jogava quando lançou ) 
+
+Com isso ela se sobrepos a da steam e foi isso .
+Eu pensava que a Steam fosse uma plataforma que salvasse , porém ela só é algo pra você jogar no pc .
+
+Quem quiser sincronizar a conta deve abrir seu jogo , ir em oppções > configurações de transferência e criar um konami id ou logar na sua conta konami
+
+Caso já esteja sincronizado ou coloque um email diferente , vai aparecer que já foi configurado  ( irei amostrar isso no vídeo )
+
+Hoje então aprendi a como identificar se uma conta foi sincronizada ou não !!! 
+
+O que eu fiz nessa conta nova ?
+
+Foquei em upar Yugi ( escolhi ele sem querer ) até o 5 , dps peguei o Joe fui até o Lv 10 , dps upei a Téa pro Lv 10 , dps o Yugi até Lv 10 e agora to upando a Mai até o Lv 25 pra pegar o Tufão ( armadilha )
+Sobre o Yusei e o Jaden ( personagem que irei desbloquear hj ) , vale a pena ?
+Jaden até o Lv 3 por causa da carta que ele ganha ( vou mostrar no vídeo ) e Yusei até Lv 21
+E o Umbra ? Vou upar dps do Yusei 
+
+Lembrando que não podemos esquecer de :
+
+Yugi / Kaiba = Começo do jogo ou Fase 15
+Joe = Fase 3
+Téa = Fase 5
+Jaden = Fase 8
+Mai e Yusei  = Fase 10
+Weevil = Vencer 100 duelistas padrão
+Rex = Fase 21
+Mako = Realizar 150 Invocação-Tributo
+Bandith = Vencer 50 duelista lendário
+Ishizu = Sumonar 200 monstros luz
+Odion = Ativar 300 armadilhas
+
+Da pra upar mais que fase 12 em 1 dia de jogo
+
+Vencer um duelo
+Vencer um duelo e ter mais que  500 PV 
+( Esses 2 vc consegue em 1 duelo )
+
+7-Missões Fase 5 : 1 Duelo 
+Vencer um duelo
+Vencer a Téa
+( Os 2 vc consegue em 1 duelo 
+
+Fase 6 : 3 duelos 
+1x Invocação Tributo
+Usar Joe
+Vencer 3 Duelos
+
+Fase  7 : 5 duelos + 1 carta
+Comprar 1 carta
+Vencer a Téa
+Vencer 5 duelos
+
+Fase 8 : Total 6 duelos ( Ficou faltando 1 duelo ( Já que só podemos duelar com 5 duelistas padrão ) , derrotei Strings e ganhei o Slifer  )
+3 invocações tributo
+6 duelos
+
+Fase 9 : Total 6 duelos ( Ia ficar faltando 1 duelo , porém venci o Andarilho ( ele não conta como personagem padrão  )
+Usar 3 cartas de magia
+Destruir 3 monstros de duelo
+Vencer 6 duelos
+
+Fase 10 : T 
+Vencer 7 duelos 
+Vencer Mai Lv 20
+Vencer duelo com 2000 PV ou mais
+Realizar 3 invocações em 1 duelo
+
+Comentários : Nessa Fase 10 , perdi pra Mai ( o que me atrasou ) , porém venci o Odion ( evento ) , dai ficou faltando vencer a Mai , mas antes venci a Téa Lv 20 , desbloquiei ela e em seguida venci a Mai
+
+Fase 11 :
+Vencer duelo com 3000 PV ou mais
+Destruir 5 monstros em um duelo
+Vencer 7 Duelos
+
+Comentários : Venci a Ishizu , dai completou os 7 duelos
+
+Fase 12 :
+
+Vença 7 duelos
+Usar 3 cartas armadilha
+Mudar envelope de Fase
+
+
+Vídeo 1 : 
+
+Apresentação : Yami , Kaiba , Joey , Mai , Téa , Yugi , Weevil , Rex , Mako , Marik , Bakura , Bandith , Ishizu , Odion , Pegasus , 
+Fase 1 , Josh - Fogo/Água/Raio Lv 1 , 
+Fase 2 , Deck Kaiba ,  Nick - Fogo/Água/Raia Lv 1 , Christine - Brotos do Jardim Botânico Lv 1
+
+Vídeo 2
+
+Fase 2 , David - Fogo/Água/Raio Lv 1 , Josh ( dnv ) , Emma - Fogo/Água/Raio Lv 1 , Trívias : Nv 1,2,3,4,5,6,7,8,9,10,11,12,13,14, Nick ( dnv ), 
+
+Vídeo 3 
+
+Só configuração
+
+Vídeo 4 
+
+Fase 2 : Tutorial 1 e 2, Trivia 15 e 16, 
+Fase 3 : Emma - Animais reconhecidos Lv 1, Joey Lv 10,  
+
+Vídeo 5
+
+Replay Lendária 4:05, Emma - Subterrâneo Lv 1, Kaiba Lv 10 (usando Joey) 
+
+Vídeo 6 
+
+Desafios de Duelistas 1,2, Duelo com Deck emprestado 1,2,3(esqueci de mostrar o deck), 4,
+
+Vídeo 7
+
+Deck Teste 1,String Lv 20,Ishizu Lv 20, Replay Rei dos Jogos, Kaiba Lv 10,Meu deck, Replay Platina
+
+Vídeo 8
+
+Desafio de Duelista 3,Duelo c/ Deck emprestado, Primeira pvp rankeado,replay do 2° pvp
+
+Vídeo 9
+
+Bella - Viradas Disparadas Lv 5 , Joe Lv 10(usando Joe), Téa - Símbolo da Amizade Lv 10(usando Joe) , Josh - Aspiração Heróica Lv 5(D.A), Jay - Monstros de Comando Lv 5 (D.A) 
+
+Vídeo 10
+
+Bella - Monstros de Comando Lv 5 , Andrew - Animais renomeados Lv 5 , Replay Rei dos Jogos , Téa Lv 10(usando Joe)
+
+Vídeo 11 
+
+Desafio de Duelista 4 e 5, Joey Lv 20(Usando Joe),Fase 9, Andarilho(8k de vida )
+
+Vídeo 12
+
+Torneio Tag Duel : Round 1 e 2,Andarilho(1 carta na mão) e Josh-Monstros de Comando Lv 5
+
+Vídeo 13 ( 877 + 481 + 
+
+Replay Lendária : Começo 
+Christine - Viradas Disparadas Lv 5 : 4:15
+Torneio Tag Duel Round 3 :  6:27 
+David - Entrada da Guerra Final Lv 5 : 9:41 
+Semi-Final : 12:21 
+Ashley - Aspiração Heróica Lv 5 : 15:07
+Emma - Cavaleiro Feroz Jovem lv 5 : 16:37
+Andarilho ( Oponente com 1000 pv ) 19:45
+
+Vídeo 14 ( 061 ) 
+
+Mai - Aroma do Vento Lv 10 : 1:33
+Final Tag Duel : 5:19
+Copa Dragão : Round 1 : 10:23
+Round 2 : 13:34
+
+Vídeo 15 [ 269(2min) + 160(14min) 
+Ganhei o Obelisco,Duelos,Atualizaçãoe Fase 11 
+
+Evento Shizu = Venci sem querer ela Lv 20
+Téa Lv 20 = Usando Joe 
+Kaiba Lv 20 = Usando Joe
+Mai Lv 20 = Usando Joe
+
+Vídeo 16 [ 903(16min) 
+
+Odion Lv 20 = Usando Téa
+Christine - Aprendiz de Mago Lv 10 = 
+Andarilho ( Mag/Arm no Campo ) = 
+Meu Deck 
+Emma - Chuva de Trovão Lv 10 =
+
+Vídeo 17 ( 14min )
+Yu-Gi-Oh Duel Links - Parte 17 -Fase 12,Deck semanal/mensal,Replay do dia,
+
+Notas :
+Fase 12
+Meu Deck 
+Replay Lendária 
+Copa Dragão : Round 3
+
+Yu-Gi-Oh Duel Links - Parte 18 - Umbra e Lumis desbloqueado 
+( 21 min )
+
+Copa Olhos Azuis :
+Round 4
+Semi-Final 
+Final 
+Copa Dragão Vermelho Lv 40 :
+Round 1 
+
+4 min + 3 min + 12 min
+
+Replay 
+Meu deck 
+Andarilho
+Meu 1° pvp ranqueado
+Deck do oponente
+
+Vídeo 29 : 14:26 
+Fase 13 , Eventos , Deck 2:37 , Deck de Farm , Fase 14 , Torneio Tag , Duelista Lv 30 , Replay farm Joe , Replay Yugi apelão e Odion 
+
+Vídeo 30 : 
+560 = 7:33 Compras,Replay do dia,
+673 = 00:48 Missões,
+112 = 02:35 Desafiante,Meu deck atual,
+
+Vídeo 31 :
+610 = 13:04 Continuando Copa Dragão Armado Lv 40 com Jaden
+
+Vídeo 32 :
+249 = 04:20 Vou postar , porém perdi
+608 = 01:07 Gastando quase 2k na Loteria
+782 = 01:03 Recebidos,Lojas
+249 = 01:00 Compras,
+902 = 07:52 Novidades 13/05,Evento,
+
+Vídeo 33 :
+339 : 07:36 Envelopes,Tapetes,Replay do dia,
+590 = 02:06 Andarilho estilo FM
+342 = carta nova
+233 = 00:52 compras
+092 = 02:41 Bestas da Terra Árida Lv 14
+
+Video 34 :
+139 = 03:39 Monstros Gêmeos Lv 14
+799 = 07:01 Reunião de Encantadores Lv 14
+562 = 06:17 Joe Lv 30
+
+Vídeo 35 :
+577 = 06:11 Dia 14/05,Missões,Replay do dia,
+412 = 00:36 Compras 
+827 = 02:02 Weevil Underwood
+621 = 01:55 Ashley-Viradas Disparadas Lv 14
+
+Vídeo 36 :
+689 = 02:54 Jay-Ajuda da União - Lv 14
+824 = 03:48 Invocou o Exodia
+970 = 01:41 Recebidos.Missões,
+964 = 00:29 Mundial
+020 = deletar
+034 = 01:41 Recebidos,Ishizu desbloqueada
+
+Vídeo 37
+032 = 08:48 Controlando 2 decks na Copa
+701 = 03:14 Josh-Discípulo de Mago-Lv 14
+
+Vídeo 38 = postado
+808 = 03:05 Mai-Aroma da Amazoness-Lv 30
+141 = 00:38 Missões,
+090 = 01:29 Fase 15,Missões
+138 = 00:27 Missão
+343 = 03:25 Kaiba-Caminho do Poder Selvagem-Lv 30
+466 = 01:28 Missões,Fase 16,Missões
+063 = 00:57 Missões,Fase 17,Missões
+
+Vídeo 39
+825 = 11:00 Eventos do dia 15/05,Replay diária,Deck Dano de Efeito
+
+Yu-Gi-Oh Duel Links - Parte 40 - Téa Lv 30,Invoquei 2 deuses e nova DLC
+138 = 03:29 Téa-Anjo da Amizade-Lv 30
+843 = 04:35 Jay-Ajuda da União-Lv 14,Fase 18
+124 = 10:54 Invoquei Obelisco e Slifer,Deck Invocação-Tributo
+234 = 00:41 Nova DLC
+
+Yu-Gi-Oh Duel Links - Parte 41 - Eventos,Volta do Tristan e Monster World 
+906 = 13:19 Eventos dia 16/05,Volta do Tristan e o Monster Wordl
+
+Yu-Gi-Oh Duel Links - Parte 42 - Área 3 até a 7
+297 = 11:40 Área 3 até a 7
+
+Yu-Gi-Oh Duel Links - Parte 43 - Área 7 até 10 e Gastei 2k
+Yu-Gi-Oh Duel Links - Parte 44 - Área 10 , Decks e Compras 
+Yu-Gi-Oh Duel Links - Parte 45 - Replay 17/05,Missões,Kaiba,
+Yu-Gi-Oh Duel Links - Parte 46 - Área 11 até 15 
+Yu-Gi-Oh Duel Links - Parte 47 - Área 15 até 17
+Yu-Gi-Oh Duel Links - Parte 48 - Novidades 18/05,Missões e Área 17 até 18
+
+Yu-Gi-Oh Duel Links - Parte 48 -
+560 = 06:55 Área 18 , 19 , Deck Criatura do Mar Lv 20 , Área 20 
+358 = 00:09 
+814 = 00:36 Área 19 , 20 , 
+265 = 01:10 Gastando 2k no MW 
+684 = 00:15 Recompensas
+075 = 11:11 Área 21 a 35 desbloqueada , Missões , Compras , Replay do dia , Cartela 1 , Área 20 
+
+Yu-Gi-Oh Duel Links - Parte 49 -
+153 = 11:23 Área 20 , Deck de Fada , Área 21
+
+Yu-Gi-Oh Duel Links - Parte 50 
+827 = Área 21 , 22 , Deck de Harpia , Área 23 , Deck de Dragão ,
+
+Yu-Gi-Oh Duel Links - Parte 51 
+105 = Área 23 , 24 , Gastando 1k , 
+
+52
+636 = 12:15 Área 24 , 25 , Deck Mago Lv 30 , 
+
+53
+250 = 12:48 Área 25 Zorc e Tristan , 26 , 27 , Deck de Guerreiro 
+
+54
+355 = 13:03 Área 27 , 28 , 4 dados , 29 
+
+55
+405 = 12:26 Área 29 , 30 , Deck de Fada Lv 30 , 
+
+56
+423 = 11:25 Área 30 , 31 , Gastando 2k na Loteria , 
+
+57
+699 = 02:09 Área 30 , Fail 
+558 = 10:19 Área 31 , 32 , Deck Dino Lv 30 , Cartela 1 completa , Missões , Tristán e seu deck , Compras , Fase 20 , Rex Raptor no DL , Missões 
+
+58
+514 = 03:01 Fase 20 = Cartela 2,Compras,Deck PVP,
+623 = 09:18 Deck PVP , Replay do Dia , Área 32 
+
+59
+702 = 10:48 Presentes Nova Semana , Replay do Dia , !!!
+
+Postados 
+
+Postar 23/05/2019 
+
+60
+483 = 12:45 Área 32 e 33 
+
+61
+968 = 00:38 Área 33 , 
+746 = 04:59 Área 33 , Deck de Amazoness , 
+total = 5:40 
+296 = 09:18 Área 34 , Deck Cavaleiro-Gema , 
+
+62
+139 = 06:57 Área 34 , 35 
+553 = 00:19 Área 35 ,
+797 = 12:29 Área 35 , Deck Silencioso , Deck Criatura do Mar , Deck Homem-Bateria , 
+
+63
+011 = 12:49 Área 35 , Zorc 2° Fase , Área Infinita 36 
+
+Vídeos Extra 23/05/2019 !!!
+
+Yu-Gi-Oh Duel Links 64 Área 36 e 37 
+184 = 01:30 Área 35-50 , Inifinito , 
+886 = 11:01 Cartela 2 , Área 36 , Área 37 , Deck Bujin
+
+Yu-Gi-Oh Duel Links 65 Área 37 e 38 
+466 = 09:37 Área 37 , Área 38 , Gastando  2k , Missões
+871 = 01:15 Missões , Área 38
+
+Yu-Gi-Oh Duel Links 66 Missões , Odion e 2° Cartela 
+014 = 00:35 Mundo GX , 
+856 = 00:53 Missões GX , Fase 3 , 
+890 = 01:57 Recebidos , Missões , Odion liberado , 
+265 = 01:30 Missões , GX Fase 4 , Cartela 2 ,
+369 = 07:33 Replay do Dia , 
+
+Yu-Gi-Oh Duel Links 67 Replay , Compras , Área 38 e 5 dados
+094 = 11:12 Replay do dia , Compras , Área 38 , 5 dados 
+
+24/05/2019 
+
+Yu-Gi-Oh Duel Links - Parte 68 Área 38,39,Deck,Chazz e Rex
+390 = 11:06 Área 38 , Deck Senhor Obscuro , Área 39 , Deck Luminos , 
+873 - 01:20 Lojas , Compras , Missões , 
+954 = 01:51 GX Fase 5 , Chazz liberado , 
+854 = 00:17 Rex Raptor
+
+Yu-Gi-Oh Duel Links - Parte 69 Área 39,40 e Upando no 5Ds
+542 = 12:02 Rex Raptor , Área 39 ,  40 , 
+745 = 01:13 5Ds Fase 2 , Compras , 
+808 = 01:25 5Ds Fase 3 , Meu Deck
+794 = 03:29 5Ds Fase 4 , Blazing Rose , Compras , 
+
+Yu-Gi-Oh Duel Links - Parte 70 Área 40
+887 = 15:16 Área 40 , Deck Hordeum Ferro . 
+
+Yu-Gi-Oh Duel Links - Parte 71 Áre 40 até 42
+276 = 02:21 Área 40 , 41 , Deck Nephtys , 
+780 = 00:59 Bingo Mokuba
+422 = 01:14 5Ds Fase 5 , Akiza , 
+435 = 12:25 Área 41 , 42 , 
+
+Sexta a tarde/noite 24/05/2019 
+
+Yu-Gi-Oh Duel Links - Parte 72 Área 42 , 43 e Deck Olhos Vermelhos
+231 = 13:28 Área 42 , 43 , Deck Olhos Vermelhos , 
+
+Yu-Gi-Oh Duel Links - Parte 73 Akiza , área 43 e 44
+033 = 00:32 Akiza , 
+375 = 01:00 Akiza , Missões , 
+294 = 00:28 Missões
+152 = 12:42 Área 43 , 44 , 
+
+Yu-Gi-Oh Duel Links - Parte 74 Área 44 até 47
+464 = 02:14 Área 44 , 
+845 = 11:40 Área 45 , 46 , 47
+
+Yu-Gi-Oh Duel Links - Parte 75 Área 47 , 48 e Bug que fez eu perder 500 gemas  
+481 = 05:07 Área 47 , 
+734 = 00:49 Novidades , Bingo 
+464 = 00:05 Missão
+420 = 12:41 Área 47 , 48 , 
+
+Sábado 25/05/2019
+Yu-Gi-Oh Duel Links - Parte 76
+965 = 11:32 Área 48 , 49 , Gastando 2k
+793 = 01:18 Cartela 2 , Missões , 
+
+Yu-Gi-Oh Duel Links - Parte 77
+279 = 02:36 Área 49 , Área 50 , 
+091 = 00:11 Missão
+235 = 11:36 Cartela 3 , Compras , Área 50 ,
+
+Yu-Gi-Oh Duel Links - Parte 78
+924 = 03:23 Área 50 , 
+233 = 08:07 Área 50 , Zorc 3° Fase , Voltando pra 100%
+
+Yu-Gi-Oh Duel Links - Parte 79
+705 = 12:15 Voltando 
+
+Yu-Gi-Oh Duel Links - Parte 80 - 3° Cartela , Mokuba e Retorno pt3
+21/05 > 976 = 00:26 Compras , Cartela 3
+401 = 02:57 Cartela 3 , Recebidos , Bingo , Missões
+390 = 02:37 Bingo , Mobuka ,
+190 = 00:08 Missão
+752 = 07:26 Retorno pt 3 , 
+
+Yu-Gi-Oh Duel Links - Parte 81 - Retorno pt4
+909 = 00:12 
+843 = 11:36 Retorno pt 4 , 
+
+Yu-Gi-Oh Duel Links - Parte 82 - Retorno pt5 e infinito 1 ou área 51
+265 = 01:39 Retorno pt 5 , 
+806 = 00:44 Missão , 
+191 = 03:50 Retorno pt 5 , Área 51 ou Infinito 1
+143 = 12:15 Área 51 / Infinito 1 , 
+
+Yu-Gi-Oh Duel Links - Parte 83 - Infinito 2 e 3 ou Área 52 e 52
+218 = 11:39 Área 52 / Infinito 2 , Infinito 3 
+
+Yu-Gi-Oh Duel Links - Parte 84 - Infinito 3 e 4 ou Área 53 e 54
+844 = 12:21 Infinito 3 , 4 , 
+453 = 00:24
+727 = 00:12 Missão
+
+Yu-Gi-Oh Duel Links - Parte 85 - Infinito 4 ou Área 54
+994 = 12:54 infinito 4 
+
+122-022-846
+
+Postado 27/05 
+
+86
+925 = 03:12 Infinito 4 e 5 ou Área 54 e 55
+409 = 00:14 Compras
+019 = 02:27 Replay do dia 
+874 = 00:20 Compras
+094 = 00:16 Compras
+243 = 03:31 Infinito 5 ou Área 55 
+501 = 00:15 Missões
+859 = 00:22 Missões
+282 
+186
+
+9:30 !!!
+
+Yu-Gi-Oh Duel Links - Parte 87
+781 = 13:06 Infinito 5 ou Área 55 , 6 ou 56 , 7 ou 57 
+
+Yu-Gi-Oh Duel Links - Parte 88
+922 = 06:39 Infinito 7 ou 57 
+831 = 06:36 Infinito 7 / 57 e Infinito 8 / 58 
+
+Yu-Gi-Oh Duel Links - Parte 89
+766 = 12:54 Enquete MW , Infinito 8 / 58 , 
+
+Yu-Gi-Oh Duel Links - Parte 90
+579 = 03:30 Infinito 8 ou Area 58 , Zorc 5° Fase
+753 = 09:13 Ininito 8 ou Área 58 , Zorc 5° fase , Compras , Replay do dia , 
+
+Dia 28/05/2019 Segunda-Feira
+
+Yu-Gi-Oh Duel Links - Parte 91 - Upando no Infinito e Compras
+016 = 02:23 Upando no Infinito pt 1
+718 = 01:05 
+029 = 06:00 
+919 = 01:30 
+437 - 00:31 Compras
+
+Yu-Gi-Oh Duel Links - Parte 92 - Bandith Keith , Odion e Replay Exodia vs Restolho
+230 = 00:18 Bandith Keith
+481 = 00:13
+362 = 00:14 Odion
+780 = 01:10 MW 
+590 = 00:09 Compras
+373 = 08:12 Replay do Dia : Exodia vs Restolho
+
+Yu-Gi-Oh Duel Links - Parte 93 - Evento Novo e Compras
+653 = 11:15 DL , Evento Signatário Kalin Kessler , Compras , 
+
+Yu-Gi-Oh Duel Links - Parte 94 - Kalin 1°,2° e 3° Animação
+602 = 00:56 1° Evento do Kalin
+251 = 02:55 Kalin Deck Lv 20
+612 = 01:25 Kalin Deck Lv 10
+292 = 02:27 Replay do Dia : Neos vs Dragão Negro
+247 = 00:25 Presente
+527 = 00:37 Compras 
+468 = 00:48 Missão , 5Ds Fase 6 
+230 = 01:02 Kalin 2° Evento
+699 = 00:33 Novidades
+919 = 00:17 Compra
+015 = 00:56 Recebidos ,
+359 = 00:08  
+965 = 00:36 Kalin 3° Evento
+809 = 04:5 Missões 
+ 
+95
+136 = 02:14 Deck PVP
+759 = 00:19 Compras
+981 = 00:19 Compras
+952 = 08:41 5Ds Fase 8 , Missões , Replay Espelho Six 
+Samurai
+
+Postar dia 29/05/2019 Quinta-feira
+
+Yu-Gi-Oh Duel Links - Parte 96 - Farmando Kalin com Deck f2p
+154 = 03:17 Kalin Lv 40 = 2,7k e.e
+278 = 00:08 Compra
+728 = 06:16 Kalin Lv 20 = 6,9k  
+970 = 00:09 Compra
+389 = 00:38 Missão , GX Fase 9 ,
+487 = 01:13 Deck de Farm 
+
+Yu-Gi-Oh Duel Links - Parte 97 - Fiz 5000 contra Kalin Lv 30
+762 = 08:39 Kalin Lv 30 = 5,3k 
+407 = 03:15 5Ds Fase 10 , Leo , Cartela 4 completa 
+
+Yu-Gi-Oh Duel Links - Parte 98 - Leo no DL , Neos , Mecanimos e Seis Samurais
+611 = 00:16 Leo
+718 = 00:32 Leo
+138 = 00:50 Novo dia , Compras , 
+266 = 05:46 Replay Neos vs Deck estranho
+869 = 01:20 Nova Semana
+356 = 06:56 Replay : Mecanismo vs Seis Samurais
+
+Yu-Gi-Oh Duel Links - Parte 99 - Muitas Coisas
+732 = 00:54 Recebidos
+591 = 00:08 Evento Kalin
+830 = 04:02 Novo dia , Eventos , Enquete , 
+797 = 03:46 Replay Burn vs Random
+532 = 00:10 Recebidos
+155 = 00:49 1° PVP - 9:20
+160 = 00:48 2° PVP
+390 = 00:28 3° PVP - 10:30
+
+Yu-Gi-Oh Duel Links - Parte 100
+375 = 10:21 Novidades
+817 = 04:15 Pacote Especial
+
+
+Gastando Gemas !!!
+719 = 02:37 Deck Bateri 
+246 = 00:12 Gemas
+---------------
+10:00 > 11:30 
+
+Yu-Gi-Oh Duel Links - Parte 26 - 2° parte da Copa 
+
+2° pvp = turno 10/15/17 Yami Yugi = mais longo
+3° pvp = turno 4 marik = suicida ( recruta 2 )
+4° pvp = turno 4 Trudge = perdi
+5° pvp = turno 4/6/8 Joey = perdi
+6° pvp = Yugi - turno  3/5/ = falha , venci ( Recruta 3 )
+7° pvp = Joey - turno 3/5/7/9/11 8,2k de vida , perdi
+
+Deck Mai
+8° pvp = Kaiba - turno 2/10 perdi
+9° pvp = Jaden - turno 3/5/7 perdi 
+10-Yugi - turno 3/5/7/11/15 perdi 
+11-Yugi - turno = caiu - Bronze 1
+
+Deck Mai - Bronze 1
+12-Akiza - turno 7 perdi
+12-Jaden - turno 3/7 perdi
+13-Kaiba - turno 2/6/12 perdi
+14-Yugi - turno 2/6/8 Obelisco /10/12/14/16/22/32 perdi
+
+Deck Yami 
+15-Yami - turno 3/17 perdi Neos
+16-Yugi - turno 3/23 perdi bobeira +ou- gravei
+17-Kaiba -turno 3/5 perdi
+18-Yami - turno 3/ venci
+19-Yami - turno 3/7 perdi
+28-Yami-turno 2/ deck Olhos Vermelhos = perdi 2°
+
+Deck Joe 
+20-Kaiba - Turno 3/ Deck Mago Silencioso + Neos = perdi
+21-Jaden - Turno 3/ Deck Guerrei + Nobre = perdi
+22-Joey - Turno 2/ Deck Neos = perdi
+23-Kaiba - Turno 2/ Deck Guerreiro/Dragão = perdi
+
+Deck Téa 7/4
+1-Joey - Turno 3/ = Se rendeu e ganhei (Bronze 2)
+2-Jaden - turno 2/ = Deck Neos , ganhei (Bronze 3)
+3-Yami Yugi - turno 2/ = Deck Magia,ganhei (Bronze 4)
+4-Yugi - turno 2/  Deck Exodia , perdi
+5-Yami-turno 2/ deck doido = venci ( Bronze 4 )
+6-Joey-turno 3/ deck olhos vermelhos = perdi 3°
+7-Yami-turno 2/ deck de 30 cartas = venci 
+8-Kaiba-turno 2/ deck seis samurais = venci ( Bronze 5)
+9-Yami Yugi-Turno 3/ deck louco = venci ( Prata 1)
+10-Arkana-Turno 2/ deck Mago Negro = perdi 
+11-Jaden-Turno 3/ deck Neos = perdi
+
+Deck Tristan 
+1-Jack-Turno 2/ deck ressonância = venci ( Prata 1 )
+2-Weevil-turno 3/ deck hordeum = venci ( Prata 2 )
+3-Yami Yugi-turno 2/ deck mago negro = venci ( Prata 2 )
+4-Lumis-Turno 2/ deck trevas = perdi 
+5-Kaiba-Turno 2/ deck Dragão Branco + Dino = venci 
+6-Pegasus-Turno 2/ deck Mecanismo + Toon = venci ( Prata 3)
+7-Kaiba-Turno 2/ deck olhos azuis = venci
+8-Yugi-Turno 3/ deck nobre = perdi 6/3
+9-Yami Yugi-Turno 3/ deck = venci - 7/3
+10-Kaiba-Turno 3/ deck olhos azuis = perdi - 7/4
+11-Kaiba-Turno 3/ deck olhos vermelhos = perdi 7/5
+
+Deck Yusei
+1-Yami Yugi-Turno 3/ deck olhos vermelhos = perdi ( Prata 2_
+2-Kaiba-Turno 2/ deck guerreiro = venci 
+3-Lumis-Turno 2/ deck olhos vermelhos = perdi
+4-Yusei-Turno 3/ deck olhos vermelhos + neos = venci
+5-Kaiba-Turno 3/ deck olhos vermelhos = venci ( Prata 3 )
+6-Yami Yugi-Turno 3/ deck doido 30 cartas = venci
+7-Jaden-Turno 3/ deck Six = perdi 4-3
+8-Yami Yugi-Turno 2/ deck Gema = venci 5-3
+
+Atualizando
+01:24 > 07:15
+01:24 > 04:28
+
+14:05 > 18:05
+14:05 > 16:25
+
+221 = Explicação
+793 = Transferência
+640 = Andarilho , Jaden , Mercador , Duelo , Replay 
+-
+670 = Mercador do Tag
+857 = Aviso 
+467 = Especial
+278 = Missões normais
+704 = missão
+780 = Duelo Tag - Copa Red Dragon Lv 40 completa
+-
+435 = Copa Dragão Branco Lv 40 - Completa
+-
+250 = Copa Dragão Armado Lv 20 - Até Round 3
+-
+
+
+Vitória : 2000
+Vitória deck-out : 2100
+Sem dano : 500
+Invocação-Tributo 300
+Destruir 10 monstros : 300
+Destruir 7 monstro : 200
+Ativar magia 100
+Ativar armadilha 100
+
+Dano de Efeito 
+
+Efe-Tartaruga Lv 5 1000/2000 (1Mon=-1/2Atq) = Yugi
+Efe - Feiticeira do Fogo Lv 4(Vira=2cartas-800PV)
+Mág - Reimei (-300PV)
+Arm  - Retribuição (-100PV=Removido)
+
+
+17:06 > 21:00
+
+1° duelo = Invocando Obelisco contra Marik Lv 30 - Yugi
+2° ... = Ficando com 13k de HP contra Ishizu - Jaden
+3° ... = 
+
+Deck Yugi 
+1-Yami Yugi-turno 3/ deck máquina = venci ( Recruta 2 )
+2-Jaden-Turno 3/ deck Neos = perdi
+3-Joey-Turno 2/ deck Olhos vermelhos = venci ( Recruta 3)
+4-
+
+Evan - A Magia ficou louca - Lv 45
+
+Deck Jaden ( Ritual Lv 7 ) = 
+
+========================================
+Mickey - Agitação das Másquinas - Lv 45
+
+
+Deck Jaden = Vit 0 Der 1
+
+
+============================================
+Jay/Meg - Besta Mascarada - Lv 45
+
+Efe-Lv 8-Des Gradius a Besta 3300/2500 = 1x
+
+Lv 4-Melchid a Besta 1500/1200 = 1x
+Lv 4-Grande Ancião Tiki 1500/800 = 1x
+Efe-Lv 4-Geleia Renascida 1500/500 = 1x
+
+Mág-Energia das Trevas = 1x
+Mág-Máscara de Vestígios = 1x
+
+Arm-Maçãs Douradas = 1x
+
+Deck Yami Yugi = Vit 0 Der 2
+Deck Jaden ( Ritual Lv 7 ) = Vit 1 Der 0
+
+====================================
+
+Andrew/Josh - Dragão Meteórico Negro - Lv 45
+
+Lv 7-Dragão Negro Olhos Vermelhos 2400/2000 = 1x
+
+Efe-Lv 4-Senhos dos Dragões 1200/1100 = 2x
+Efe-Lv 4-Espírito Ryu 1000/1000 = 2x
+
+Mág-Flauta p/ Invoc Dragões = 1x
+Mág-Fragmento da Ganância = 1x
+
+Deck Yami Yugi = Vit 2 Der 0
+
+=============================================
+Ashley - Dragão Trovão de 2 cabeças - Lv 45
+
+Fus-Lv 7-Dragão do Trovão de 2 cabeças 2800/2100 = 2x
+
+Efe-Lv 5-Dragão do Trovão 1600/1500 = 3x
+Efe-Lv 4-Deusa com 3° Olho 1200/1000 = 1x
+Lv 3-Ovelha Mística n°1 1150/900 = 1x
+Efe-Lv 2-Skelengel 900/400 = 1x
+
+Mág-Fragmento de Ganância = 2x
+Mág-Portal de Fusão = 1x
+
+Deck Yugi = Vit 0 Der 1
+
+=========================================
+Mickey - O maior dos pássaros - Lv 45
+
+Arm-Bloqueador de armadilhas = 1x
+
+Deck Yugi = Vit 1 Der 0
+Deck Jaden = Vit 0 Der 1
+======================================
+
+Daniel/David  - Teoria do Tributo - Lv 45
+
+Lv 5-O Conde da Morte 2000/1700 = 1x
+
+Efe-Lv 3-Behemoth de 2 Cabeças 1500/1200 = 1x
+Efe-Lv 3-Verme Bubônico (Flip+SpcSum) 900/600 = 3x
+Efe-Lv 4-Joaninha com Marca de Caveira 500/1500 = 1x
+
+Mág-Remover Mágia = 1x
+
+Arm-Encarnação de Apophis = 1x
+
+Deck Yami Yugi = Vit 2 Der 0
+
+============================
+
+Meg - Ajuda da União - Lv 20
+
+
+
+Deck Mai = Vit 1 Der 0
+=============================================
+
+David - Chulainn o Desperto - Lv 20
+
+Lv 4-Takriminos 1500/1200 = 1x
+Lv 4-Pássaro da Fé 1500/1100 = 1x
+
+Deck Mai = Vit 1 Der 0
+
+========================================
+
+Madison/Zachary - Combinação de Fusão - Lv 20
+
+Lv 3-Guerreiro Batalhador = 1x
+Lv 3-Robodama 450/900 = 1x
+Lv 1-Servo Caveira 300/200 = 1x
+Lv 1-Olho Monstro 250/350 = 1x
+
+Deck Mai = Vit 2 Der 0
+
+==========================================
+
+Jay - Invocação-Tributo - Lv 20
+
+Lv 7-Dragão-Serpente da Noite 2350/2400 = 3x
+
+Efe-Lv 4-Efigie das Trevas 1500/0 = 2x
+Efe-Lv 4-Viser Des 500/1200 = 2x
+
+Mág-Boneca Tributo = 1x
+Mág-Reduzir Custos = 2x
+
+Arm-Sobrecarga = 1x
+
+Deck Mai = Vit 2 Der 0
+
+===================================
+Alyssa/Evan - Monstro de Espírito - Lv 20
+
+Efe-Lv 4-Maharagi 1200/1700 = 3x
+Efe-Lv 4-Fushi no Tori 1200/0 = 3x
+Efe-Lv 3-Inaba,o Coelho Branco 700/500 = 3x
+Efe-Lv 3-Otohime 0/100 = 3x
+
+Mág-Espada de Kusanagi = 1x
+
+Arm-Convite do Espírito = 1x
+
+Deck Mai = Vit 2 Der 0 = Gravei
+
+======================================
+
+Evan - Reunião de Encantadores - Lv 20
+
+Deck PVp
+
+=========================================
+
+Logan - Thousand Energy - Lv 20
+
+
+
+==========================
+
+Andrew/Ashley/Mickey/Nick - Viradas Disparadas - Lv 14
+
+Efe-Skelengel Lv 2 900/400 = 3x
+Efe-Parasite Lv 2 500/300 = 2x
+Efe-Um Gato Lv 2 500/300 = 3x
+Efe-Ninja Armado(DestMág) Lv 1 300/300 = 3x
+Efe-... Carmesim(DestArm) Lv 1 300/300 = 3x
+Efe-Jigen Bakudan 200/1000 = 1x
+
+Arm-Maldição de Aging = 2x
+
+Deck Mai = 3 Vit 1 Der
+
+==================================
+Ashley/Jay/Meg - Bestas da Terra Árida - Lv 14
+
+Palhaço Zumbi Lv 2 1350/0 = 1x
+Yaranzo Lv 4 1300/1500 = 1x
+Trakodonte Lv 3 1300/800 = 1x
+Cemitério Lv 3 1200/800 = 1x
+Armadilheiro Lv 8 800/1200 = 1x
+Ogro Lv 3 800/1200 = 2x
+
+Mág-Terra Árida (+200 Atq/De Dino/Zum/Roc)
+
+Deck Mai = 3 Vit 0 Der
+
+====================================
+Bella/Jess - Monstros Agressores - Lv 10
+
+Amizade Lv 4 1300/1100 = 3x
+Efe-Bowganian Lv 30 1300/1000 = 2x
+Demônio Chifrudo 1300/1000 = 2x
+Fireyarou Lv 4 1300/1000 = 2x
+Sentinela Lv 4 1300/1000 = 3x
+Tesouro da Bravura 1300/1000 = 2x
+Trakodonte Lv 3 1300/800 = 2x
+====================================
+Bella/Nick - Dragão Milenar - Lv 14
+
+Fus-¹Dragão Milenar Lv 7 2400/2000 = 1x
+Fus-²Guerreira da Tradição 1900/1700 = 1x
+
+²Bela Caçadora Lv 4 1600/800 = 2x
+²Donzela Sônica Lv 3 1200/900 = 2x
+O Presa de Prata Lv 3 1200/800 = 2x
+¹Dragão Filhote Lv 3 1200/700 = 3x
+¹Efe-Mago do Tempo Lv 2 500/400 = 2x
+Mág-Polimerização = 1x
+Arm-Máquina do Tempo = 2x
+
+Deck Mai = 1 Vit 2 Der
+
+==============================================
+Christine/Daniel/Jay/Jess/Josh - Monstros Gêmeos - Lv 14
+
+Efe-Rei Pyron Lv 5 1500/500 
+
+Efe-Escuridão Infinita Lv 4 1500/1200 = 3x
+Efe-Allesa Aquática Lv 4 1500/500 = 2x
+Efe-Sombra Escavadora Lv 4 1500/500 = 3x
+Efe-Arqueiro da Floresta Lv 3 1400/1300 = 2x
+Efe-Limo Mágico Lv 3 700/1200 = 3x
+Efe-Soldado Gêmeos Lv 2 500/300 = 3x
+
+Deck Mai = 5 Vit 1 Der
+
+===================================
+Christine/Daniel/David/Jess - Reunião de Encantadores - Lv 14
+
+Efe-Aussa Enct Terra 500/1500 = 2x
+Efe-Dharc Enct Trevas 500/1500 = 3x
+Efe-Eria Enct Água 500/1500 = 2x
+Efe-Hiita Enct Fogo 500/1500 = 1x
+Efe-Lyna Enct Luz Lv 3 500/1500 = 2x
+Efe-Wynn Enct Vento Lv 3 500/1500 = 2x
+
+Mág-Livro do Taiyou = 2x
+
+Arm-Muralhas do Castelo = 3x
+
+Deck Mai = 3 Vit 0 Der
+
+===============================
+Bella/Josh - Discípulo de Mago - Lv 14
+
+Efe-Lv 7 Kazeijin 2400/2200(Zera o 1°atq) = 1
+
+Lv 4-Elfo Ancião 1450/1200 = 1x
+Lv 4-Feiticeiro dos Condenados 1450/1200 = 3x
+Lv 4-Fada Madrinha 1400/1000 = 1x
+
+Mág-Livr das Artes (+300 Atq/Def Mago) = 1x
+Mág-Yami (+200 Atq/Def Dem/Mago e -200 Atq/Def Fada) = 1x
+
+Deck Mai = 1 Vit 2 Der
+
+===============================
+Emma - Combinação de Fusão - Lv 14
+
+Fus-Lv 3-¹Guerreiro Zumbi 1200/900 = 1x
+Fus-Lv 6-²Super Robodama(+1000Atq FaseDano) 1200/500 = 1x
+Fus-Lv 6-²Super Roboyarou(+1000Atq FaseDano) 1200/500 = 1
+
+²Lv 3-Roboyarou 900/450 = 2x
+¹Lv 3-Guerreiro Batalhador 700/1000 = 1x
+²Lv 3-Robodama 450/900 = 1x
+¹Lv 1-Servo Caveira 300/200 = 1x
+
+Mág-Polimerização = 2x
+
+Deck Mai : 0 Vit 1 Der
+
+===========================
+Bella/Jess/Meg - Convicção Heróica - Lv 14
+
+Lv 4-Rhaimundos 1200/1300 = 1x
+Lv 4-Serpentyashi 1000/1200 = 1x
+Lv 2-Varas Gêmeas 850/700 = 2x
+Lv 2-Serpente saqueadora 700/600 = 1x
+Lv 2-Bico de Escavação 500/800 = 1x
+
+Deck Mai : 2/0
+
+==========================
+13:07 > 15:30
+
+============================
+Andrew/Mickey - Ajuda da União - Lv 14
+
+Efe-Lv 4 Besta Congelada 1500/1000 = 3x
+Efe-Lv 4 Besta em Brasa 1500/1000 = 3x
+Efe-Lv 4 Delta Tri 1200/1000 = 3x
+Efe-Lv 2 Superóleo 400/400 = 3x
+
+Mág-Base da Frente (InvAdd União) = 3x
+Mág-Flamberge Perverso (DescMão e +500Atq) = 3x
+
+Arm-Formação Union = 1x
+
+Deck Mai : Vit 3 Der 1
+
+=======================================
+Ishizu Ishtar : Deck de coveiro Lv 20
+
+Lv 4 ou menor :
+Agido Lv 4 1500/1300 (Spc Sum do Cemitério)= 3x
+Espírito dos Livros Lv 4 1400/1200 = 1x
+Keldo Lv 4 1200/1600 (Cemit Adv pro Deck) = 1x
+Magia - Equipamento :
+Livro das Artes ( Mago +300 Atq/Def ) = 1x
+Magia - Normal
+Arrastado p/ Cova ( Descarte e Puxar ) = 1x
+
+Joe - Guerreiros Ferozes - Lv 20
+
+Masaki Lv 4 1100/1100 = 3x
+Herói Lest Lv 3 1100/1000 = 2x
+Dragão Filhote Lv 3 1200/700 = 3x
+Guerreiro M 1 Lv 3 1000/500 = 2x
+Guerreiro Batalhador Lv 3 700/100 = 3x
+Guerreiro M 2 Lv 3 500/1000 = 2x
+Mág - Bloquear Atq = 1x
+Mág - Hinotama = 2x
+
+===================================
+Joe - Guerreiros de Fusão - Lv 30
+
+Fus-¹Dragão Espada Lv 5 1700/1500 = 1x
+Fus-Guerreiro Lv 4 1500/1200 = 1x
+
+¹Espada do Jacaré Lv 4 1500/1200 = 1x
+¹Dragão Filhote Lv 3 1200/700 = 3x
+Masaki Lv 4 1100/1100 = 3x
+Guerreiro M 1 Lv 3 1000/500 = 3x
+Guerreiro M 2 Lv 3 500/1000 = 3x
+
+Mág - Bloquear Ataque = 1x
+Mág - Espada e Escudo = 1x
+Mág - Polimerização = 2x
+
+Deck Mai : Vit/Der > 2/0
+
+=======================
+Kaiba - Caminho do Poder - Lv 20
+
+Lv 4-Fireyarou 1300/100 = 3x
+Efe-Lv 4-Senhor dos Dragões 1200/1100 = 3x
+Lv 4-Gigante Hitotsu-Me 1200/1000 = 3x
+Lv 3-Ryu-Kishin 1000/500 = 2x
+Lv 3-Dragão Escudo 700/1300 = 3x
+
+Mág-Tornado = 1x
+
+Deck Mai :2 Vit 0 Der
+
+=============================
+Kaiba - Caminho do Poder Selvagem - Lv 30
+
+Lv 6-Gyakutenno 1800/2000 = 2x
+
+Lv 4-Touro Guerreiro 1700/1000 = 3x
+Efe-Lv 3-Behemoth de 2 1500/1200 = 1x
+Lv 4-Centauro Místico 1300/1550 = 3x
+Lv 3-Ryu-Kishin 1000/500 = 2x
+Lv 3-Saggi,o Palhaço 600/1500 = 3x
+
+Mág-Controlador de Inimigos = 2x
+Mág-Tornado = 1x
+
+Total 17 cartas
+
+Deck Mai : 2 Vit 0 Der
+
+=============================
+Mai - Lady Harpia - Lv 20
+
+Lv 5-Pavão 1700/1500 = 3x
+
+Lv 2-Palhaço Zumbi 1350/0 = 2x
+Lv 4-Lady Harpia 1300/1400 = 1x
+Efe-Lv 4-Lady ... 2 1300/1400 = 1x
+Efe-Lv 4-Lady ... 3 1300/1400 = 1x
+Lv 3-Kurama 800/800 = 2x
+Lv 2-Rapariga ... 500/500 = 2x
+
+Mág-Vento Seguidor (+300 Atq/Def BestAla) = 2x
+
+Arm-Sombra dos Olhos = 2x
+
+Deck Mai : 2 Vit 1 Der 
+
+=========================================
+Mai - Aroma da Amazoness - Lv 30
+
+Efe-Lv 4-Aprendiza Amazoness 1500/1300 = 2x
+Efe-Lv 4-Lutador ... 1500/1300 = 1x
+Efe-Lv 4-Mestra da Corr. 1500/1300 = 3x
+Efe-Lv 4-Tigre Amazoness(+400Atq p/Amazoness) 1100/1500 = 2x
+Efe-Lv 2-Batedores ... 500/1100 = 3x
+
+Mág-Aldeia Amazoness(Amazon+200Atq e SpcSumAmaz) = 2x
+
+Deck Mai : 2 Vit 2 Derr
+
+======================
+
+
+
+
+Odion - Lv 20
+
+Mág - Tempestade = 1x
+Arm - Estátua = 1x
+Arm - Paleozoico Leanchoilia = 1x
+Arm - ... Pikaia = 1x
+
+=======================================================
+Odio - Lv 30
+
+Efe-Besta Mística Lv 6 2500/2000 = 1x
+Mág-Templo dos Reis-Cont = 1x
+Arm-Alma Tiki-Cont = 2x
+Arm-Encarnação de Apophis-Cont(Rept/TerLv4 1600/1800) = 2x
+Arm-Paleozoico Canadia = 1x
+Arm-Paleozoico Pikaia = 1x
+
+=====================================================
+Signatário das Trevas Kalin Kessler 
+
+Como de Mãos Vazias - Lv 10
+
+Efe-Lv 1-Gerador de Aleatoriedade 900/0 (SemMão=Compra=Monstro=Nível x200 Adv e Mág/Arm -400seu) = 1x
+Lv 3-A Sombra que Controla 800/700 = 2x
+Lv 2-Demônio da Meia-Noite 800/600 = 2x
+Efe-Lv 2-Anão Inférnico 800/500 = 3x
+Efe-Lv 1-Vingador Inférnico 0/0 = 1x
+
+Arm-Inferno Inférnico = 2x
+
+Pts = 3700 
+------------------------------------------
+Olhar da Morte - Lv 30
+Cartas que ativam quando você não tem mão 
+
+Efe-Lv 7-General Inférnico 2700/1500 = 1x
+
+Efe-Lv 6-Destruidor Inférnico 2300/1000 (SemMão = DestrMonst = 1600 ) = 1x
+
+Efe-Lv 3-Besta Inférnica 1600/1200 (SemMão = AtqDir.) = 2x
+Efe-Lv 3-Cavaleiro Inférnico 1400/400 (Cem=Desc 2=SpcSum) = 1x
+Efe-Lv 1-Miragem Inférnica 0/0 (SemMão=Trib=2 Inf.Cemit) = 1x
+
+Mág-Enterro Tolo = 1x
+MágCont-Inferno de Mov. Ondular (SemMão=Inf +400 Atq/Def) = 1x
+MágCont-Lançador Inférnico = 2x
+
+Arm-Avariar Portal (Dano=SpcSum) = 1x
+
+Pts = 2800 
+======================
+A Escuridão Aproxima-se Lv 40
+
+Efe-Lv 6-Arqueiro Inf 2000/1000 = 1x
+
+Efe-Lv 4-Arquidemônio Inf 1800/1200 = 1x
+Efe-Lv 4-Grepher Negro 1700/1600 = 2x
+Efe-Lv 2-Besouro Inf 1200/0 = 2x
+Efe-Lv 3-Necromante Inf 0/2000 = 1x
+Efe-Lv 1-Vingador Inf 0/0 (SemCart=SpcSumCemit) = 1x
+
+MágCont-Inferno de Mov. Ondular (SemMão=Inf +400 Atq/Def) = 2x
+MágCont-Lançador Inf = 2x
+
+======================================
+Téa - Símbolo da Amizade - Lv 20
+
+Lv 4-Amizade Radiante 1300/1100 = 2x
+Lv 3-Ajudante nas Sombras 1000/1000 = 3x
+Efe-Lv 2-Skelenger 900/400 = 1x
+Lv 3-Fadabruxa 800/1000 = 3x
+Lv 2-Amante Feliz 800/500 = 3x
+Lv 3-Pequeno Anjo 600/900 = 3x
+
+Mág-Símbolo da Amizade = 1x
+
+Deck Mai = 1 Vit 0 Der
+
+=================================
+Téa - Anjo da Amizade - Lv 30
+
+Lv 5-Bruxa das Trevas 1800/1700 = 1x
+
+Lv 4-Amizade Radiante 1300/1100 = 2x
+Efe-Lv 4-Keldo 1200/1600 = 3x
+Efe-Lv 4-Feiticeira do Fogo 1000/1500 = 1x
+Lv 3-Pequeno Anjo 600/900 = 3x
+
+Mág-Arco e Flecha de Prata (Fada +300 Atq/Def) = 3x
+
+Arm-Presente do Elfo Místico = 2x
+
+Deck Mai = 2 Vit 0 Der
+
+==================================
+
+Yugi - Lv 10
+Lady da Fé 1100/800 = 2x
+Herói Oscillo #2 1000/500 = 3x
+Necrolançador 800/900 = 3x
+Escrivão 700/500 = 2x
+Espírito 600/800 = 2x
+Cortina dos Obscuros 600/500 = 2x
+
+Yugi - Amigos em Treinamento - Lv 20
+Pts : 4.700 ( 1000 de evento )
+
+Demônio Chifrudo Lv 4 1300/1000 = 3x
+Fireyarou Lv 4 1300/1000 = 3x
+Presa de Prata Lv 3 1200/800 = 3x
+Ogro de Rocha Lv 3 800/1200 = 3x
+Armadura Res Lv 3 300/1200 = 3x
+Mág - Remédio Vermelho (+500 PV) = 2x
+... - Remover Magia = 3x
+
+===========================
+Yugi - Magia Lunar - Lv 30
+
+Mago Negro Lv 7 = 2500/2000 = 1x
+
+Maldição Dragão Lv 2000/1500 = 2x
+
+Efe-Besta Fantasma Lv 4 1700/0 (Perf) = 2x
+Efe-Mago Brinq Lv 4 1600/1500 = 1x
+Cavalheiro Lv 4 1500/1600 = 3x
+Dama da Luz Lv 4 1500/1300 = 3x
+
+Mág-Livro Artes (+300 AtqMago) = 2x
+Mág-Remover Magia (Dest Mág) = 1x
+
+Deck Mai = 1 Vit 0 Der 
+
+========================================
+
+Yusei - Lv 10
+
+
+
+===============================
+Zane Trusdale 
+
+
+
+
+Personagens :
+
+Principais :
+Joey - Guerreiros Ferozes Lv 10 = Vídeo 4 (usando Kaiba)
+Joey - Guerreiros Ferozes Lv 20 = Vídeo 11(usando Joe)
+Kaiba Lv 10 = Vídeo 4(usando Kaiba),Vídeo 5(usando Joe),Vídeo 7(usando Joe,Deck teste 1),Vídeo 9(usando Joe)
+Téa - Símbolo da Amizade = Vídeo 9(usando Joe),Vídeo 10(usando Joe)
+
+Secundários :
+Ishizu Lv 20 = Vídeo 7(usando Joe,perdi)
+String Lv 20 = Vídeo 7(usando Joe)
+
+Especiais : 
+Andarilho (1 carta na mão) = Vídeo 12
+Andarilho (8k de vida) = Vídeo 11
+
+Padrão : 
+Andrew - Animais Renomeados Lv 5 = Vídeo 10
+Bella - Monstros de Comando Lv 5 = Vídeo 10
+Bella - Viradas Disparadas Lv 5 
+Christine - Brotos do Jardim Botânico Lv 1 = Vídeo 1
+Christine-Viradas Disparadas Lv 5 = Vídeo 13 !!!
+David-Entrada da Guerra Final Lv 5 = Vídeo 13 !!!
+David - Fogo/Água/Raio Lv 1 = Vídeo 2
+David - Subterrâneo Lv 1 = Falta 
+Emma - Animais reconhecidos Lv 1 = Vídeo 4
+Emma - Fogo/Água/Raio Lv 1 = Vídeo 2
+Emma - Subterrâneo Lv 1= Vídeo 5
+Hailey - Subterrâneo = Falta 
+Jay - Monstros de Comando Lv 5 = Vídeo 9
+Josh - Aspiração Heróica Lv 5 = Vídeo 9
+Josh - Fogo/Água/Raio Lv 1 = Vídeo 1,2
+Josh - Monstros de Comando Lv 5 = Vídeo 12
+Nick - Fogo/Água/Raio Lv 1 = Vídeo 1
+
+
+Fase final sua : Draw Phase
+Fase de Compra do oponente : Draw Phase
+Fase de apoio ... : 
+Fase de ação ... : Action Phase
+Fase principal ... : Main Phase
+Fase de batalha ... : Battle Phase
+Fase de ataque ... : Attack Phase
+Fase de batalha 2 ... : Battle Phase
+Fase de dano ... : Damage Phase
+Fase final  ... : End Phase
+
+Andrew
+
+Lv 4 ou menor :
+Varas Gêmeas Lv 3 850/700
+Armadilha :
+Soldado de Reforço 2x
+
+
+Emma : Aspiração heróica Lv 5
+
+Lv 4 ou menor :
+Ferroada Lv 4 1200/1000 = 1x
+Donzela Lv 3 1200/900 = 2x
+Torike Lv 4 1200/600 = 2x
+
+Josh : Jardim Botânico Lv 5
+
+Lv 4 ou menor :
+Planta Lv 2 800/600
+Mágicas :
+Fortalecimento - Equip ( Terra + 400 Atq e -200 Def ) = 1
+Germes Vis - Equip ( Planta +300 Atq/Def ) = 3x
+
+Mickey : Monstros de Duelo Lv 5
+
+Lv 4 ou menor :
+Fireyarou Lv 4 1300/1000 = 2x
+Sentinela Lv 4 1300/1000 = 2x
+Tesoura Lv 4 1300/1000 = 3x
+Magia - Equipamento 
+Infecção de Germes (-300 Não Máq cada turno seu) = 2
+
+Seto Kaiba 
+
+Lv 4 ou menor :
+
+

@@ -1,0 +1,34 @@
+O jogo tem :
+-Cartas Normais =
+Lv 1 = 31
+Lv 2 = 82
+Lv 3 = 150
+Lv 4 = 219
+Lv 5 = 79
+
+Lista de cartas que não tem :
+
+Alternative Blue-Eyes White Dragon = não tem
+Dragon Spirit of White = não tem
+Impcation Bookstone
+Impcation Candoll
+Impcation Penciplume
+Impcation Talismandra
+Keeper of Dragon Magic =
+Master with Eyes of Blue = não tem
+Mind Crush
+Mystic Tomato = 
+Sage with Eyes of Blue = não tem
+Shaddol Beast = não tem
+Shadoll Dragon = ...
+Shadoll Squamata = 
+Shrine Palace 
+Toon Kingdom 
+
+Deck : 
+NA Gishiki 
+
+Tem :
+Gishiki Shadown
+
+
