@@ -1,0 +1,11 @@
+01 = Barreira de Gelo
+02 = Cemitério
+03 = Cemitério Sombraneco
+04 = Cemitério Morfotrônico Virado pra Cima
+05 = Fantardil Lv 03
+06 = Incompleto
+07 = Planta
+08 = Planta Terra
+09 = Planta
+10 = Invocação Especial
+ABC = Fóton Luz
