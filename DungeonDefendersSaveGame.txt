@@ -1,0 +1,22 @@
+SaveGame :
+C:\Program Files (x86)\Steam\steamapps\common\Dungeon Defenders\Binaries\Win32
+C:\Program Files (x86)\Steam\steamapps\common\Dungeon Defenders Redux\Binaries\Win32
+C:\Program Files (x86)\Dungeon Defenders\Binaries\Win32
+C:\Users\XXXX\AppData\Local\SKIDROW\65800\Storage
+
+XXXX = Nome de usuário
+
+Jogos :
+C:\Program Files (x86)\Trendy Entertainment\Dungeon Defenders 70\Binaries\Win32
+
+
+
+
+
+
+
+Monstro : Vida
+
+Goblin = 62
+Arqueiro 115
+Orc = 441
