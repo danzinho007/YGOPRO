@@ -1,0 +1,74 @@
+DECKLIST Noble Knight
+
+Monsters: 18
+
+3x Noble Knight Medraut
+3x Noble Knight Gawayn
+2x Noble Knight Gwalchavad
+1x Ignoble Knight of Black Laundsallyn
+3x Noble Knight Artorigus
+1x Rescue Rabbit
+1x Honest
+1x Genex Neutron
+2x Genex Ally Birdman
+1x Black Luster Soldier - Envoy of The Beginning
+
+Spells: 14
+
+3x Noble Arms of Destiny
+2x Noble Arms - Caliburn
+2x Noble Arms - Arfeudutyr
+1x Noble Arms - Gallatin
+1x Reinforcement of the Army
+2x Pot of Duality
+1x Monster Reborn
+1x Dark Hole
+1x Heavy Storm
+
+Traps: 8
+
+2x Fiendish Chain
+2x Compulsory Evacuation Device
+2x Bottomless Trap Hole
+1x Solemn Warning
+1x Solemn Judgment
+
+===============================================
+Efe-1-Battle Fader 0/0 = 
+Efe-2-Jester Lord 0/0 = 
+Efe-4-Kagetokage 1100/1500 = !!!
+4-Exiled Force = 
+4-Darkfire Soldier #2 1700/1100 = Quero 1900
+4-Mad Dog Darkness 1900/1400 = 
+4-Archfiend Soldier 1900/1500 = 
+4-Spear Dragon 1900/0 = 
+4-Warrior of Atlantis 1900/1200 = 
+4-Berserk Gorilla 2000/1000 = 
+4-Zombyra 2100/500 = 
+4-Goblin Attack 2300/0 = Tenho 2 agora
+4-Chainsaw Insect 2400/0 = 
+4-Stone Statue 300/2000 = 
+4-Island Turtle 1100/2000 = J� tenho 2 Tin 800/2000
+6-Amphibian Beast 2400/2000 = J� tenho o Caius
+Mag-Axe of Fools(Equip) =
+M�g - Card Trader = 
+Mag - Ego Boost = !!!
+Mag - Double Summon = 
+M�g-DarkWorld Shackles(Equip Nega) =
+M�g-Heart of the Underdog =
+Mag - Night Beam = !!!
+Mag - One Day of Peace = !!!
+M�g - Pot of Duality = 
+Mag - Smashing Ground = 
+Mag - Swing of Memories = 
+Arm-Dexs Counterblow = 
+Arm-Dust Tornado = J� tenho 2
+Arm-Sakuretsu Armor =
+Arm-Skill Drain = 
+Arm- Solemn Warning(paga 2k vida) = 
+Arm-Torrential Tribute = dps coloco
+
+Efe-6-Horus Black Flame Dragon L6 2300/1600
+Efe-8-Horus Black Flame Dragon L8 z3000/1800
+ou
+Efe-8-Sacred Phoenix Nephthys 2400/1600
